@@ -1,0 +1,1 @@
+AddCSLuaFile "includes/modules/cfc_detached_timer.lua"
